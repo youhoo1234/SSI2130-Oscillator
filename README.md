@@ -41,3 +41,6 @@ Ryan Laur, Daniel Louis, Sahil Patel, Dieter Steinhauser, Cale Woodward, et al.
 * Resistors: 2x47k, 33k, 68k, 220k
 * 2N3904 
 * 2x 1N4148 Diode
+
+
+
